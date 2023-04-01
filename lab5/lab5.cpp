@@ -151,6 +151,7 @@ int main()
     cout << "Присвоєння тексту з text2 в text1: " << endl << text1.getData() << endl;
     text1 = text2;
     cout << "==================================" << endl;
+    cout << "Завершення програми!" << endl;
 
     return 0;
 }
